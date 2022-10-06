@@ -1,8 +1,10 @@
 <body{
     background-color: rgb(21, 236, 14);
+    text-align: center;
 }
 p {
     color: rgb(238, 255, 0);
+    text-align: center;
     text-align: center;
 }
 #mario{
