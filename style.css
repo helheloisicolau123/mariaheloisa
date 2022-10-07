@@ -9,3 +9,10 @@ p {
 #jogos{
     width: 300%;
 }
+button{
+background-color:  transparent;
+border: 4px solid #fff;
+height: 50px;
+
+
+}
