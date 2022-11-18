@@ -5,6 +5,14 @@ header{
 nav li {
     display: inline;
 }
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
 
 #jogos{
     width: 100%;
