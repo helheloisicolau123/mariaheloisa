@@ -2,12 +2,13 @@ header{
  background: #BBBBBB;
 
 }
+nav li {
+    display: inline;
+}
 
 #jogos{
     width: 100%;
 }
 #jogo
  
-nav li {
-    display: inline;
-}
+
